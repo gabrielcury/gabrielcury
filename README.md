@@ -2,14 +2,14 @@
 
 ## I am a developer, entrepreneur and consultancy!
 - 🔭 I'm currently working on LemonSolutions [Lemon solutions](https://lemonsolutions.com.br)!
-- 🌱 Currently, I'm learning everything(React, Mongo, NetCore...) 🤣
-- ✏️ I currently manage the backend scripts and enviroment.
-- 🎯 Goals, contribute more to open source projects and start a new one
-- ⚡ Curiosity: I love learn, sci-fi, alien, space, dogs and cats
+- 🌱 Currently, I'm learning ReactJS, NetCore, NodeJS 
+- ✏️ I currently work with the backend scripts and enviroment (Devops).
+- 🎯 My Goal contribute to make a better place using technology
+- ⚡ Fact: I love to learn new things, feel free to stay in touch [@mail](bielbanco@gmail.com) 
 
 ### Connect with me:
 
-[<img align="left" alt="Gabriel Cury" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/omarcury)
+<!--[<img align="left" alt="Gabriel Cury" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/omarcury)-->
 [<img align="left" alt="Gabriel Cury | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabrielcury)
 
 <br />
