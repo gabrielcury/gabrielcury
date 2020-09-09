@@ -5,11 +5,10 @@
 - 🌱 Currently, I'm learning ReactJS, NetCore, NodeJS 
 - ✏️ I currently work with the backend scripts and enviroment (Devops).
 - 🎯 My Goal contribute to make a better place using technology
-- ⚡ Fact: I love to learn new things, feel free to stay in touch [@mail](bielbanco@gmail.com) 
+- ⚡ Fact: I love to learn new things, feel free to stay in touch [@mail](mailto:bielbanco@gmail.com) 
 
 ### Connect with me:
 
-<!--[<img align="left" alt="Gabriel Cury" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/omarcury)-->
 [<img align="left" alt="Gabriel Cury | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabrielcury)
 
 <br />
