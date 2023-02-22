@@ -1,7 +1,6 @@
 ### Hi there, I'm Gabriel 👋
 
 ## I am a developer, entrepreneur and consultancy!
-- 🔭 I'm currently working on LemonSolutions [Lemon solutions](https://lemonsolutions.com.br)!
 - 🌱 Currently, I'm learning ReactJS, NetCore, NodeJS 
 - ✏️ I currently work with the backend scripts and enviroment (Devops).
 - 🎯 My Goal contribute to make a better place using technology
