@@ -56,3 +56,9 @@ Minhas habilidades se estendem ao gerenciamento de dados com bancos como **MySQL
 <img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gitlab/gitlab.png" />
 <img align="left" alt="Oracle Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracle-cloud/oracle-cloud.png" />
 <img align="left" alt="Terminal SSH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+---
+
+Aqui está uma representação visual criativa do seu perfil, combinando elementos de arte ASCII para computador e um fluxo de trabalho GitOps:
+
+http://googleusercontent.com/image_generation_content/1
