@@ -1,64 +1,98 @@
-### Olá, sou Gabriel 👋
+# 👋 Olá, eu sou Gabriel Cury
+
+```plaintext
+     ________            ________________          __________
+    |        |          |                |        |          |
+    | FRONT  |  ----->  |    BACKEND     | -----> | DEVOPS   |
+    |________|          |________________|        |__________|
+         |                   |                           |
+         v                   v                           v
+     APIs REST         Pipelines Kafka           CI/CD com IaC
+                         +                        GitOps 🔄 Cloud ☁️
+                   Processamento em tempo real
+```
+
+## 💼 Desenvolvedor Web | 🚀 Especialista em DevOps | 🧠 Engenheiro de Dados em Tempo Real | 🧩 Empreendedor | 🧭 Consultor
+
+Sou **Gabriel Cury**, um profissional multidisciplinar apaixonado por **tecnologia, inovação e automações inteligentes**. Minha missão é impulsionar negócios por meio da engenharia de software moderna, entregando soluções escaláveis, resilientes e orientadas a dados.
 
 ---
 
-## Desenvolvedor Web | Especialista em DevOps | Engenheiro de Dados em Tempo Real | Empreendedor | Consultor
+## 🚀 Sobre Mim
 
-Apaixonado por tecnologia e inovação, sou **Gabriel Cury**, um profissional versátil que transita com fluidez entre o **desenvolvimento web de alta performance**, a **engenharia de DevOps** e a **arquitetura de dados em tempo real**. Minha jornada é impulsionada pela busca constante por soluções eficientes e pelo desejo de transformar o cenário digital, com um foco especial em automação e infraestrutura como código. Como empreendedor e consultor, estou sempre pronto para mergulhar em novos desafios e contribuir para projetos que realmente fazem a diferença.
-
-- 🌱 Atualmente, estou expandindo minhas capacidades em **ReactJS**, **.NET Core** e **Node.js**, sempre buscando as melhores práticas para construir aplicações escaláveis e responsivas. Minha paixão por **automação** me leva a explorar novas fronteiras em eficiência operacional e provisionamento de infraestrutura.
-- ✏️ Minha atuação principal envolve o **desenvolvimento de sistemas backend robustos** e, de forma ainda mais aprofundada, a **gestão de ambientes de TI através de DevOps e Engenharia de Confiabilidade (SRE)**. Sou especialista na implementação de **infraestrutura como código (IaC) com Terraform**, garantindo a automação completa do provisionamento e gerenciamento de recursos em nuvem. Garanto que a integração contínua, a entrega eficiente e a infraestrutura de nuvem sejam pilares sólidos para o sucesso de cada projeto.
-- 🚀 Sou um entusiasta e implementador experiente de soluções de streaming de dados com **Apache Kafka** e **Confluent Cloud**. Tenho expertise em projetar, construir e otimizar pipelines de dados em tempo real, desde a ingestão até o processamento e a entrega, garantindo alta disponibilidade e resiliência para aplicações críticas.
-- 🎯 Meu objetivo é **contribuir para um mundo melhor utilizando a tecnologia como ferramenta de transformação**, criando soluções automatizadas, resilientes e escaláveis que impulsionam o progresso e simplificam a vida das pessoas e das organizações.
-- ⚡ **Curiosidade:** Adoro aprender coisas novas, especialmente sobre arquiteturas distribuídas e automação inteligente. Estou sempre aberto a conectar com mentes inovadoras e colaborar em projetos desafiadores. Sinta-se à vontade para entrar em contato: [@mail](mailto:bielbanco@gmail.com)
-
----
-
-### Conecte-se comigo:
-
-[![Gabriel Cury | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/gabrielcury)
-
-<br/>
+- 🌱 Atualmente explorando **ReactJS**, **.NET Core** e **Node.js** para criar aplicações modernas e performáticas.
+- ⚙️ Foco em **DevOps & SRE**, com domínio em **CI/CD**, **GitOps**, **Kubernetes**, **Terraform** e **infraestrutura como código (IaC)**.
+- 🔄 Experiência avançada com **Apache Kafka** e **Confluent Cloud**, projetando pipelines de streaming em tempo real.
+- ☁️ Atuação forte em ambientes de nuvem como **Azure**, **AWS**, **GCP** e **Oracle Cloud**.
+- 🤝 Gosto de colaborar com equipes multidisciplinares e resolver problemas complexos com soluções simples e elegantes.
+- 🎯 Minha motivação é criar **ferramentas e sistemas que melhorem a vida das pessoas**.
 
 ---
 
-### Linguagens e Ferramentas:
+## 🧠 Stack & Ferramentas
 
-Como **desenvolvedor web completo**, domino linguagens essenciais como **PHP**, **JavaScript** e **TypeScript**, e tenho vasta experiência com frameworks modernos como **Spring Boot**. No universo **DevOps e SRE**, minha expertise se destaca na orquestração de containers com **Docker** e **Kubernetes**, e sou um proponente da **infraestrutura como código (IaC)**, com forte atuação em **Terraform**. Além disso, trabalho com as principais plataformas de controle de versão como **GitHub** e **GitLab**, garantindo pipelines de CI/CD e automação de ponta a ponta.
+```
+   Desenvolvimento    |  Backend & Dados      |  DevOps & Cloud
+----------------------|------------------------|------------------------------
+ React, Angular       |  Node.js, Spring Boot  |  Docker, Kubernetes, Helm
+ TypeScript, JS, PHP  |  PostgreSQL, MongoDB   |  Terraform, GitLab CI/CD
+ HTML5, CSS3          |  MySQL, SQL Server     |  Azure, AWS, GCP, OCI
+                      |  Apache Kafka          |  GitHub Actions, ArgoCD
+```
 
-Minhas habilidades se estendem ao gerenciamento de dados com bancos como **MySQL**, **PostgreSQL** e **MongoDB**. Sou proficiente na arquitetura e implementação de soluções em **nuvem** nas maiores plataformas: **Azure**, **AWS**, **GCP** e **Oracle Cloud**. Para ambientes de container e orquestração avançada, possuo experiência com **ARO OpenShift** e **AKS**. Sou um especialista em **Apache Kafka** e **Confluent Cloud**, projetando e implementando sistemas de streaming de dados em tempo real para análises, integração e microsserviços.
+## 🔧 Tecnologias que uso:
 
-<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/php/php.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gcp/gcp.png" />
-<img align="left" alt="Kafka" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kafka/kafka.png" />
-<img align="left" alt="Confluent" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/confluent/confluent.png" />
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" />
-<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gitlab/gitlab.png" />
-<img align="left" alt="Oracle Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracle-cloud/oracle-cloud.png" />
-<img align="left" alt="Terminal SSH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
-Aqui está uma representação visual criativa do seu perfil, combinando elementos de arte ASCII para computador e um fluxo de trabalho GitOps:
+## 🔄 GitOps + Kafka + Automação (ASCII ART)
 
-http://googleusercontent.com/image_generation_content/1
+```plaintext
+             +--------------------+
+             |   Dev Commit       |
+             +--------------------+
+                        |
+                        v
+         +---------------------------+
+         | GitOps Pipeline (CI/CD)  |
+         +---------------------------+
+                        |
+                        v
+            +----------------------+
+            | Terraform Provision  |
+            +----------------------+
+                        |
+                        v
+     +------------------------------------+
+     | Kubernetes com Kafka e Microserviços|
+     +------------------------------------+
+                        |
+                        v
+           +-----------------------------+
+           | Monitoramento e Observabilidade |
+           +-----------------------------+
+```
+
+---
+
+## 📡 Vamos nos conectar?
+
+- 📧 Email: [bielbanco@gmail.com](mailto:bielbanco@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielcury)
+- 📁 Veja meus projetos e colaborações no [GitHub](https://github.com/seuusuario)
+
+---
+
+> _"Transformar ideias em soluções, código em impacto e inovação em rotina."_ 🚀
