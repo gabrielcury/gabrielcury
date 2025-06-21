@@ -20,7 +20,7 @@ Sou **Gabriel Cury**, um profissional multidisciplinar apaixonado por **tecnolog
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente explorando **ReactJS**, **.NET Core** e **Node.js** para criar aplicações modernas e performáticas.
+- 🌱 Atualmente explorando **Terrafornm**, **Ansible** e **Backstage** para criar automações modernas e performáticas.
 - ⚙️ Foco em **DevOps & SRE**, com domínio em **CI/CD**, **GitOps**, **Kubernetes**, **Terraform** e **infraestrutura como código (IaC)**.
 - 🔄 Experiência avançada com **Apache Kafka** e **Confluent Cloud**, projetando pipelines de streaming em tempo real.
 - ☁️ Atuação forte em ambientes de nuvem como **Azure**, **AWS**, **GCP** e **Oracle Cloud**.
@@ -91,7 +91,7 @@ Sou **Gabriel Cury**, um profissional multidisciplinar apaixonado por **tecnolog
 
 - 📧 Email: [bielbanco@gmail.com](mailto:bielbanco@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielcury)
-- 📁 Veja meus projetos e colaborações no [GitHub](https://github.com/seuusuario)
+- 📁 Veja meus projetos e colaborações no [GitHub](https://github.com/gabrielcury)
 
 ---
 
